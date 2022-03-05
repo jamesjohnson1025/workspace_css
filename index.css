@@ -1,0 +1,35 @@
+.title:hover {
+   color: red;    
+}
+
+.subtitle {
+   color:blue;
+}
+
+#contact {
+   color:green;
+}
+
+li:first-child {
+   color:green; 
+}
+
+li:last-child {
+   color:orange;
+}
+
+li:nth-child(2) {
+   color:steelblue;
+}
+
+li:only-child {
+   color:purple;
+}
+
+#google-link:link {
+   color:blue;
+}
+
+#google-link:visited {
+   color:red;
+}
